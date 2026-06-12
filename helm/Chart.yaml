@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-ujrah-card-services
+description: "BIAN Service Domain: Ujrah Card Services (Fulfill pattern, Takaful and Shared Operations)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Takaful and Shared Operations"
+  isb/business-domain: "Islamic Cards and Payments"
+  isb/asset-type: "Ujrah Card Facility"
+  isb/control-record: "Ujrah Card Facility Fulfillment Arrangement"
